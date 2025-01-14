@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=krikflip
+X-Python-2-Compatible=false
+X-Krita-Manual=myPluginManual.html
+Name=Krikflip
+Comment=A plugin to automatically visually flip the canvas, on a timer. This is intended to help an artist spot errors.
